@@ -1,0 +1,975 @@
+ID: 0	Name:Air
+ID: 1	Name:Stone
+ID: 2	Name:Granite
+ID: 3	Name:Polished Granite
+ID: 4	Name:Diorite
+ID: 5	Name:Polished Diorite
+ID: 6	Name:Andesite
+ID: 7	Name:Polished Andesite
+ID: 8	Name:Grass Block
+ID: 9	Name:Dirt
+ID: 10	Name:Coarse Dirt
+ID: 11	Name:Podzol
+ID: 12	Name:Crimson Nylium
+ID: 13	Name:Warped Nylium
+ID: 14	Name:Cobblestone
+ID: 15	Name:Oak Planks
+ID: 16	Name:Spruce Planks
+ID: 17	Name:Birch Planks
+ID: 18	Name:Jungle Planks
+ID: 19	Name:Acacia Planks
+ID: 20	Name:Dark Oak Planks
+ID: 21	Name:Crimson Planks
+ID: 22	Name:Warped Planks
+ID: 23	Name:Oak Sapling
+ID: 24	Name:Spruce Sapling
+ID: 25	Name:Birch Sapling
+ID: 26	Name:Jungle Sapling
+ID: 27	Name:Acacia Sapling
+ID: 28	Name:Dark Oak Sapling
+ID: 29	Name:Bedrock
+ID: 30	Name:Sand
+ID: 31	Name:Red Sand
+ID: 32	Name:Gravel
+ID: 33	Name:Gold Ore
+ID: 34	Name:Iron Ore
+ID: 35	Name:Coal Ore
+ID: 36	Name:Nether Gold Ore
+ID: 37	Name:Oak Log
+ID: 38	Name:Spruce Log
+ID: 39	Name:Birch Log
+ID: 40	Name:Jungle Log
+ID: 41	Name:Acacia Log
+ID: 42	Name:Dark Oak Log
+ID: 43	Name:Crimson Stem
+ID: 44	Name:Warped Stem
+ID: 45	Name:Stripped Oak Log
+ID: 46	Name:Stripped Spruce Log
+ID: 47	Name:Stripped Birch Log
+ID: 48	Name:Stripped Jungle Log
+ID: 49	Name:Stripped Acacia Log
+ID: 50	Name:Stripped Dark Oak Log
+ID: 51	Name:Stripped Crimson Stem
+ID: 52	Name:Stripped Warped Stem
+ID: 53	Name:Stripped Oak Wood
+ID: 54	Name:Stripped Spruce Wood
+ID: 55	Name:Stripped Birch Wood
+ID: 56	Name:Stripped Jungle Wood
+ID: 57	Name:Stripped Acacia Wood
+ID: 58	Name:Stripped Dark Oak Wood
+ID: 59	Name:Stripped Crimson Hyphae
+ID: 60	Name:Stripped Warped Hyphae
+ID: 61	Name:Oak Wood
+ID: 62	Name:Spruce Wood
+ID: 63	Name:Birch Wood
+ID: 64	Name:Jungle Wood
+ID: 65	Name:Acacia Wood
+ID: 66	Name:Dark Oak Wood
+ID: 67	Name:Crimson Hyphae
+ID: 68	Name:Warped Hyphae
+ID: 69	Name:Oak Leaves
+ID: 70	Name:Spruce Leaves
+ID: 71	Name:Birch Leaves
+ID: 72	Name:Jungle Leaves
+ID: 73	Name:Acacia Leaves
+ID: 74	Name:Dark Oak Leaves
+ID: 75	Name:Sponge
+ID: 76	Name:Wet Sponge
+ID: 77	Name:Glass
+ID: 78	Name:Lapis Lazuli Ore
+ID: 79	Name:Lapis Lazuli Block
+ID: 80	Name:Dispenser
+ID: 81	Name:Sandstone
+ID: 82	Name:Chiseled Sandstone
+ID: 83	Name:Cut Sandstone
+ID: 84	Name:Note Block
+ID: 85	Name:Powered Rail
+ID: 86	Name:Detector Rail
+ID: 87	Name:Sticky Piston
+ID: 88	Name:Cobweb
+ID: 89	Name:Grass
+ID: 90	Name:Fern
+ID: 91	Name:Dead Bush
+ID: 92	Name:Seagrass
+ID: 93	Name:Sea Pickle
+ID: 94	Name:Piston
+ID: 95	Name:White Wool
+ID: 96	Name:Orange Wool
+ID: 97	Name:Magenta Wool
+ID: 98	Name:Light Blue Wool
+ID: 99	Name:Yellow Wool
+ID: 100	Name:Lime Wool
+ID: 101	Name:Pink Wool
+ID: 102	Name:Gray Wool
+ID: 103	Name:Light Gray Wool
+ID: 104	Name:Cyan Wool
+ID: 105	Name:Purple Wool
+ID: 106	Name:Blue Wool
+ID: 107	Name:Brown Wool
+ID: 108	Name:Green Wool
+ID: 109	Name:Red Wool
+ID: 110	Name:Black Wool
+ID: 111	Name:Dandelion
+ID: 112	Name:Poppy
+ID: 113	Name:Blue Orchid
+ID: 114	Name:Allium
+ID: 115	Name:Azure Bluet
+ID: 116	Name:Red Tulip
+ID: 117	Name:Orange Tulip
+ID: 118	Name:White Tulip
+ID: 119	Name:Pink Tulip
+ID: 120	Name:Oxeye Daisy
+ID: 121	Name:Cornflower
+ID: 122	Name:Lily of the Valley
+ID: 123	Name:Wither Rose
+ID: 124	Name:Brown Mushroom
+ID: 125	Name:Red Mushroom
+ID: 126	Name:Crimson Fungus
+ID: 127	Name:Warped Fungus
+ID: 128	Name:Crimson Roots
+ID: 129	Name:Warped Roots
+ID: 130	Name:Nether Sprouts
+ID: 131	Name:Weeping Vines
+ID: 132	Name:Twisting Vines
+ID: 133	Name:Sugar Cane
+ID: 134	Name:Kelp
+ID: 135	Name:Bamboo
+ID: 136	Name:Block of Gold
+ID: 137	Name:Block of Iron
+ID: 138	Name:Oak Slab
+ID: 139	Name:Spruce Slab
+ID: 140	Name:Birch Slab
+ID: 141	Name:Jungle Slab
+ID: 142	Name:Acacia Slab
+ID: 143	Name:Dark Oak Slab
+ID: 144	Name:Crimson Slab
+ID: 145	Name:Warped Slab
+ID: 146	Name:Stone Slab
+ID: 147	Name:Smooth Stone Slab
+ID: 148	Name:Sandstone Slab
+ID: 149	Name:Cut Sandstone Slab
+ID: 150	Name:Petrified Oak Slab
+ID: 151	Name:Cobblestone Slab
+ID: 152	Name:Brick Slab
+ID: 153	Name:Stone Brick Slab
+ID: 154	Name:Nether Brick Slab
+ID: 155	Name:Quartz Slab
+ID: 156	Name:Red Sandstone Slab
+ID: 157	Name:Cut Red Sandstone Slab
+ID: 158	Name:Purpur Slab
+ID: 159	Name:Prismarine Slab
+ID: 160	Name:Prismarine Brick Slab
+ID: 161	Name:Dark Prismarine Slab
+ID: 162	Name:Smooth Quartz Block
+ID: 163	Name:Smooth Red Sandstone
+ID: 164	Name:Smooth Sandstone
+ID: 165	Name:Smooth Stone
+ID: 166	Name:Bricks
+ID: 167	Name:TNT
+ID: 168	Name:Bookshelf
+ID: 169	Name:Mossy Cobblestone
+ID: 170	Name:Obsidian
+ID: 171	Name:Torch
+ID: 172	Name:End Rod
+ID: 173	Name:Chorus Plant
+ID: 174	Name:Chorus Flower
+ID: 175	Name:Purpur Block
+ID: 176	Name:Purpur Pillar
+ID: 177	Name:Purpur Stairs
+ID: 178	Name:Spawner
+ID: 179	Name:Oak Stairs
+ID: 180	Name:Chest
+ID: 181	Name:Diamond Ore
+ID: 182	Name:Block of Diamond
+ID: 183	Name:Crafting Table
+ID: 184	Name:Farmland
+ID: 185	Name:Furnace
+ID: 186	Name:Ladder
+ID: 187	Name:Rail
+ID: 188	Name:Cobblestone Stairs
+ID: 189	Name:Lever
+ID: 190	Name:Stone Pressure Plate
+ID: 191	Name:Oak Pressure Plate
+ID: 192	Name:Spruce Pressure Plate
+ID: 193	Name:Birch Pressure Plate
+ID: 194	Name:Jungle Pressure Plate
+ID: 195	Name:Acacia Pressure Plate
+ID: 196	Name:Dark Oak Pressure Plate
+ID: 197	Name:Crimson Pressure Plate
+ID: 198	Name:Warped Pressure Plate
+ID: 199	Name:Polished Blackstone Pressure Plate
+ID: 200	Name:Redstone Ore
+ID: 201	Name:Redstone Torch
+ID: 202	Name:Snow
+ID: 203	Name:Ice
+ID: 204	Name:Snow Block
+ID: 205	Name:Cactus
+ID: 206	Name:Clay
+ID: 207	Name:Jukebox
+ID: 208	Name:Oak Fence
+ID: 209	Name:Spruce Fence
+ID: 210	Name:Birch Fence
+ID: 211	Name:Jungle Fence
+ID: 212	Name:Acacia Fence
+ID: 213	Name:Dark Oak Fence
+ID: 214	Name:Crimson Fence
+ID: 215	Name:Warped Fence
+ID: 216	Name:Pumpkin
+ID: 217	Name:Carved Pumpkin
+ID: 218	Name:Netherrack
+ID: 219	Name:Soul Sand
+ID: 220	Name:Soul Soil
+ID: 221	Name:Basalt
+ID: 222	Name:Polished Basalt
+ID: 223	Name:Soul Torch
+ID: 224	Name:Glowstone
+ID: 225	Name:Jack o'Lantern
+ID: 226	Name:Oak Trapdoor
+ID: 227	Name:Spruce Trapdoor
+ID: 228	Name:Birch Trapdoor
+ID: 229	Name:Jungle Trapdoor
+ID: 230	Name:Acacia Trapdoor
+ID: 231	Name:Dark Oak Trapdoor
+ID: 232	Name:Crimson Trapdoor
+ID: 233	Name:Warped Trapdoor
+ID: 234	Name:Infested Stone
+ID: 235	Name:Infested Cobblestone
+ID: 236	Name:Infested Stone Bricks
+ID: 237	Name:Infested Mossy Stone Bricks
+ID: 238	Name:Infested Cracked Stone Bricks
+ID: 239	Name:Infested Chiseled Stone Bricks
+ID: 240	Name:Stone Bricks
+ID: 241	Name:Mossy Stone Bricks
+ID: 242	Name:Cracked Stone Bricks
+ID: 243	Name:Chiseled Stone Bricks
+ID: 244	Name:Brown Mushroom Block
+ID: 245	Name:Red Mushroom Block
+ID: 246	Name:Mushroom Stem
+ID: 247	Name:Iron Bars
+ID: 248	Name:Chain
+ID: 249	Name:Glass Pane
+ID: 250	Name:Melon
+ID: 251	Name:Vines
+ID: 252	Name:Oak Fence Gate
+ID: 253	Name:Spruce Fence Gate
+ID: 254	Name:Birch Fence Gate
+ID: 255	Name:Jungle Fence Gate
+ID: 256	Name:Acacia Fence Gate
+ID: 257	Name:Dark Oak Fence Gate
+ID: 258	Name:Crimson Fence Gate
+ID: 259	Name:Warped Fence Gate
+ID: 260	Name:Brick Stairs
+ID: 261	Name:Stone Brick Stairs
+ID: 262	Name:Mycelium
+ID: 263	Name:Lily Pad
+ID: 264	Name:Nether Bricks
+ID: 265	Name:Cracked Nether Bricks
+ID: 266	Name:Chiseled Nether Bricks
+ID: 267	Name:Nether Brick Fence
+ID: 268	Name:Nether Brick Stairs
+ID: 269	Name:Enchanting Table
+ID: 270	Name:End Portal Frame
+ID: 271	Name:End Stone
+ID: 272	Name:End Stone Bricks
+ID: 273	Name:Dragon Egg
+ID: 274	Name:Redstone Lamp
+ID: 275	Name:Sandstone Stairs
+ID: 276	Name:Emerald Ore
+ID: 277	Name:Ender Chest
+ID: 278	Name:Tripwire Hook
+ID: 279	Name:Block of Emerald
+ID: 280	Name:Spruce Stairs
+ID: 281	Name:Birch Stairs
+ID: 282	Name:Jungle Stairs
+ID: 283	Name:Crimson Stairs
+ID: 284	Name:Warped Stairs
+ID: 285	Name:Command Block
+ID: 286	Name:Beacon
+ID: 287	Name:Cobblestone Wall
+ID: 288	Name:Mossy Cobblestone Wall
+ID: 289	Name:Brick Wall
+ID: 290	Name:Prismarine Wall
+ID: 291	Name:Red Sandstone Wall
+ID: 292	Name:Mossy Stone Brick Wall
+ID: 293	Name:Granite Wall
+ID: 294	Name:Stone Brick Wall
+ID: 295	Name:Nether Brick Wall
+ID: 296	Name:Andesite Wall
+ID: 297	Name:Red Nether Brick Wall
+ID: 298	Name:Sandstone Wall
+ID: 299	Name:End Stone Brick Wall
+ID: 300	Name:Diorite Wall
+ID: 301	Name:Blackstone Wall
+ID: 302	Name:Polished Blackstone Wall
+ID: 303	Name:Polished Blackstone Brick Wall
+ID: 304	Name:Stone Button
+ID: 305	Name:Oak Button
+ID: 306	Name:Spruce Button
+ID: 307	Name:Birch Button
+ID: 308	Name:Jungle Button
+ID: 309	Name:Acacia Button
+ID: 310	Name:Dark Oak Button
+ID: 311	Name:Crimson Button
+ID: 312	Name:Warped Button
+ID: 313	Name:Polished Blackstone Button
+ID: 314	Name:Anvil
+ID: 315	Name:Chipped Anvil
+ID: 316	Name:Damaged Anvil
+ID: 317	Name:Trapped Chest
+ID: 318	Name:Light Weighted Pressure Plate
+ID: 319	Name:Heavy Weighted Pressure Plate
+ID: 320	Name:Daylight Detector
+ID: 321	Name:Block of Redstone
+ID: 322	Name:Nether Quartz Ore
+ID: 323	Name:Hopper
+ID: 324	Name:Chiseled Quartz Block
+ID: 325	Name:Block of Quartz
+ID: 326	Name:Quartz Bricks
+ID: 327	Name:Quartz Pillar
+ID: 328	Name:Quartz Stairs
+ID: 329	Name:Activator Rail
+ID: 330	Name:Dropper
+ID: 331	Name:White Terracotta
+ID: 332	Name:Orange Terracotta
+ID: 333	Name:Magenta Terracotta
+ID: 334	Name:Light Blue Terracotta
+ID: 335	Name:Yellow Terracotta
+ID: 336	Name:Lime Terracotta
+ID: 337	Name:Pink Terracotta
+ID: 338	Name:Gray Terracotta
+ID: 339	Name:Light Gray Terracotta
+ID: 340	Name:Cyan Terracotta
+ID: 341	Name:Purple Terracotta
+ID: 342	Name:Blue Terracotta
+ID: 343	Name:Brown Terracotta
+ID: 344	Name:Green Terracotta
+ID: 345	Name:Red Terracotta
+ID: 346	Name:Black Terracotta
+ID: 347	Name:Barrier
+ID: 348	Name:Iron Trapdoor
+ID: 349	Name:Hay Bale
+ID: 350	Name:White Carpet
+ID: 351	Name:Orange Carpet
+ID: 352	Name:Magenta Carpet
+ID: 353	Name:Light Blue Carpet
+ID: 354	Name:Yellow Carpet
+ID: 355	Name:Lime Carpet
+ID: 356	Name:Pink Carpet
+ID: 357	Name:Gray Carpet
+ID: 358	Name:Light Gray Carpet
+ID: 359	Name:Cyan Carpet
+ID: 360	Name:Purple Carpet
+ID: 361	Name:Blue Carpet
+ID: 362	Name:Brown Carpet
+ID: 363	Name:Green Carpet
+ID: 364	Name:Red Carpet
+ID: 365	Name:Black Carpet
+ID: 366	Name:Terracotta
+ID: 367	Name:Block of Coal
+ID: 368	Name:Packed Ice
+ID: 369	Name:Acacia Stairs
+ID: 370	Name:Dark Oak Stairs
+ID: 371	Name:Slime Block
+ID: 372	Name:Grass Path
+ID: 373	Name:Sunflower
+ID: 374	Name:Lilac
+ID: 375	Name:Rose Bush
+ID: 376	Name:Peony
+ID: 377	Name:Tall Grass
+ID: 378	Name:Large Fern
+ID: 379	Name:White Stained Glass
+ID: 380	Name:Orange Stained Glass
+ID: 381	Name:Magenta Stained Glass
+ID: 382	Name:Light Blue Stained Glass
+ID: 383	Name:Yellow Stained Glass
+ID: 384	Name:Lime Stained Glass
+ID: 385	Name:Pink Stained Glass
+ID: 386	Name:Gray Stained Glass
+ID: 387	Name:Light Gray Stained Glass
+ID: 388	Name:Cyan Stained Glass
+ID: 389	Name:Purple Stained Glass
+ID: 390	Name:Blue Stained Glass
+ID: 391	Name:Brown Stained Glass
+ID: 392	Name:Green Stained Glass
+ID: 393	Name:Red Stained Glass
+ID: 394	Name:Black Stained Glass
+ID: 395	Name:White Stained Glass Pane
+ID: 396	Name:Orange Stained Glass Pane
+ID: 397	Name:Magenta Stained Glass Pane
+ID: 398	Name:Light Blue Stained Glass Pane
+ID: 399	Name:Yellow Stained Glass Pane
+ID: 400	Name:Lime Stained Glass Pane
+ID: 401	Name:Pink Stained Glass Pane
+ID: 402	Name:Gray Stained Glass Pane
+ID: 403	Name:Light Gray Stained Glass Pane
+ID: 404	Name:Cyan Stained Glass Pane
+ID: 405	Name:Purple Stained Glass Pane
+ID: 406	Name:Blue Stained Glass Pane
+ID: 407	Name:Brown Stained Glass Pane
+ID: 408	Name:Green Stained Glass Pane
+ID: 409	Name:Red Stained Glass Pane
+ID: 410	Name:Black Stained Glass Pane
+ID: 411	Name:Prismarine
+ID: 412	Name:Prismarine Bricks
+ID: 413	Name:Dark Prismarine
+ID: 414	Name:Prismarine Stairs
+ID: 415	Name:Prismarine Brick Stairs
+ID: 416	Name:Dark Prismarine Stairs
+ID: 417	Name:Sea Lantern
+ID: 418	Name:Red Sandstone
+ID: 419	Name:Chiseled Red Sandstone
+ID: 420	Name:Cut Red Sandstone
+ID: 421	Name:Red Sandstone Stairs
+ID: 422	Name:Repeating Command Block
+ID: 423	Name:Chain Command Block
+ID: 424	Name:Magma Block
+ID: 425	Name:Nether Wart Block
+ID: 426	Name:Warped Wart Block
+ID: 427	Name:Red Nether Bricks
+ID: 428	Name:Bone Block
+ID: 429	Name:Structure Void
+ID: 430	Name:Observer
+ID: 431	Name:Shulker Box
+ID: 432	Name:White Shulker Box
+ID: 433	Name:Orange Shulker Box
+ID: 434	Name:Magenta Shulker Box
+ID: 435	Name:Light Blue Shulker Box
+ID: 436	Name:Yellow Shulker Box
+ID: 437	Name:Lime Shulker Box
+ID: 438	Name:Pink Shulker Box
+ID: 439	Name:Gray Shulker Box
+ID: 440	Name:Light Gray Shulker Box
+ID: 441	Name:Cyan Shulker Box
+ID: 442	Name:Purple Shulker Box
+ID: 443	Name:Blue Shulker Box
+ID: 444	Name:Brown Shulker Box
+ID: 445	Name:Green Shulker Box
+ID: 446	Name:Red Shulker Box
+ID: 447	Name:Black Shulker Box
+ID: 448	Name:White Glazed Terracotta
+ID: 449	Name:Orange Glazed Terracotta
+ID: 450	Name:Magenta Glazed Terracotta
+ID: 451	Name:Light Blue Glazed Terracotta
+ID: 452	Name:Yellow Glazed Terracotta
+ID: 453	Name:Lime Glazed Terracotta
+ID: 454	Name:Pink Glazed Terracotta
+ID: 455	Name:Gray Glazed Terracotta
+ID: 456	Name:Light Gray Glazed Terracotta
+ID: 457	Name:Cyan Glazed Terracotta
+ID: 458	Name:Purple Glazed Terracotta
+ID: 459	Name:Blue Glazed Terracotta
+ID: 460	Name:Brown Glazed Terracotta
+ID: 461	Name:Green Glazed Terracotta
+ID: 462	Name:Red Glazed Terracotta
+ID: 463	Name:Black Glazed Terracotta
+ID: 464	Name:White Concrete
+ID: 465	Name:Orange Concrete
+ID: 466	Name:Magenta Concrete
+ID: 467	Name:Light Blue Concrete
+ID: 468	Name:Yellow Concrete
+ID: 469	Name:Lime Concrete
+ID: 470	Name:Pink Concrete
+ID: 471	Name:Gray Concrete
+ID: 472	Name:Light Gray Concrete
+ID: 473	Name:Cyan Concrete
+ID: 474	Name:Purple Concrete
+ID: 475	Name:Blue Concrete
+ID: 476	Name:Brown Concrete
+ID: 477	Name:Green Concrete
+ID: 478	Name:Red Concrete
+ID: 479	Name:Black Concrete
+ID: 480	Name:White Concrete Powder
+ID: 481	Name:Orange Concrete Powder
+ID: 482	Name:Magenta Concrete Powder
+ID: 483	Name:Light Blue Concrete Powder
+ID: 484	Name:Yellow Concrete Powder
+ID: 485	Name:Lime Concrete Powder
+ID: 486	Name:Pink Concrete Powder
+ID: 487	Name:Gray Concrete Powder
+ID: 488	Name:Light Gray Concrete Powder
+ID: 489	Name:Cyan Concrete Powder
+ID: 490	Name:Purple Concrete Powder
+ID: 491	Name:Blue Concrete Powder
+ID: 492	Name:Brown Concrete Powder
+ID: 493	Name:Green Concrete Powder
+ID: 494	Name:Red Concrete Powder
+ID: 495	Name:Black Concrete Powder
+ID: 496	Name:Turtle Egg
+ID: 497	Name:Dead Tube Coral Block
+ID: 498	Name:Dead Brain Coral Block
+ID: 499	Name:Dead Bubble Coral Block
+ID: 500	Name:Dead Fire Coral Block
+ID: 501	Name:Dead Horn Coral Block
+ID: 502	Name:Tube Coral Block
+ID: 503	Name:Brain Coral Block
+ID: 504	Name:Bubble Coral Block
+ID: 505	Name:Fire Coral Block
+ID: 506	Name:Horn Coral Block
+ID: 507	Name:Tube Coral
+ID: 508	Name:Brain Coral
+ID: 509	Name:Bubble Coral
+ID: 510	Name:Fire Coral
+ID: 511	Name:Horn Coral
+ID: 512	Name:Dead Brain Coral
+ID: 513	Name:Dead Bubble Coral
+ID: 514	Name:Dead Fire Coral
+ID: 515	Name:Dead Horn Coral
+ID: 516	Name:Dead Tube Coral
+ID: 517	Name:Tube Coral Fan
+ID: 518	Name:Brain Coral Fan
+ID: 519	Name:Bubble Coral Fan
+ID: 520	Name:Fire Coral Fan
+ID: 521	Name:Horn Coral Fan
+ID: 522	Name:Dead Tube Coral Fan
+ID: 523	Name:Dead Brain Coral Fan
+ID: 524	Name:Dead Bubble Coral Fan
+ID: 525	Name:Dead Fire Coral Fan
+ID: 526	Name:Dead Horn Coral Fan
+ID: 527	Name:Blue Ice
+ID: 528	Name:Conduit
+ID: 529	Name:Polished Granite Stairs
+ID: 530	Name:Smooth Red Sandstone Stairs
+ID: 531	Name:Mossy Stone Brick Stairs
+ID: 532	Name:Polished Diorite Stairs
+ID: 533	Name:Mossy Cobblestone Stairs
+ID: 534	Name:End Stone Brick Stairs
+ID: 535	Name:Stone Stairs
+ID: 536	Name:Smooth Sandstone Stairs
+ID: 537	Name:Smooth Quartz Stairs
+ID: 538	Name:Granite Stairs
+ID: 539	Name:Andesite Stairs
+ID: 540	Name:Red Nether Brick Stairs
+ID: 541	Name:Polished Andesite Stairs
+ID: 542	Name:Diorite Stairs
+ID: 543	Name:Polished Granite Slab
+ID: 544	Name:Smooth Red Sandstone Slab
+ID: 545	Name:Mossy Stone Brick Slab
+ID: 546	Name:Polished Diorite Slab
+ID: 547	Name:Mossy Cobblestone Slab
+ID: 548	Name:End Stone Brick Slab
+ID: 549	Name:Smooth Sandstone Slab
+ID: 550	Name:Smooth Quartz Slab
+ID: 551	Name:Granite Slab
+ID: 552	Name:Andesite Slab
+ID: 553	Name:Red Nether Brick Slab
+ID: 554	Name:Polished Andesite Slab
+ID: 555	Name:Diorite Slab
+ID: 556	Name:Scaffolding
+ID: 557	Name:Iron Door
+ID: 558	Name:Oak Door
+ID: 559	Name:Spruce Door
+ID: 560	Name:Birch Door
+ID: 561	Name:Jungle Door
+ID: 562	Name:Acacia Door
+ID: 563	Name:Dark Oak Door
+ID: 564	Name:Crimson Door
+ID: 565	Name:Warped Door
+ID: 566	Name:Redstone Repeater
+ID: 567	Name:Redstone Comparator
+ID: 568	Name:Structure Block
+ID: 569	Name:Jigsaw Block
+ID: 570	Name:Turtle Shell
+ID: 571	Name:Scute
+ID: 572	Name:Iron Shovel
+ID: 573	Name:Iron Pickaxe
+ID: 574	Name:Iron Axe
+ID: 575	Name:Flint and Steel
+ID: 576	Name:Apple
+ID: 577	Name:Bow
+ID: 578	Name:Arrow
+ID: 579	Name:Coal
+ID: 580	Name:Charcoal
+ID: 581	Name:Diamond
+ID: 582	Name:Iron Ingot
+ID: 583	Name:Gold Ingot
+ID: 584	Name:Netherite Ingot
+ID: 585	Name:Netherite Scrap
+ID: 586	Name:Iron Sword
+ID: 587	Name:Wooden Sword
+ID: 588	Name:Wooden Shovel
+ID: 589	Name:Wooden Pickaxe
+ID: 590	Name:Wooden Axe
+ID: 591	Name:Stone Sword
+ID: 592	Name:Stone Shovel
+ID: 593	Name:Stone Pickaxe
+ID: 594	Name:Stone Axe
+ID: 595	Name:Diamond Sword
+ID: 596	Name:Diamond Shovel
+ID: 597	Name:Diamond Pickaxe
+ID: 598	Name:Diamond Axe
+ID: 599	Name:Stick
+ID: 600	Name:Bowl
+ID: 601	Name:Mushroom Stew
+ID: 602	Name:Golden Sword
+ID: 603	Name:Golden Shovel
+ID: 604	Name:Golden Pickaxe
+ID: 605	Name:Golden Axe
+ID: 606	Name:Netherite Sword
+ID: 607	Name:Netherite Shovel
+ID: 608	Name:Netherite Pickaxe
+ID: 609	Name:Netherite Axe
+ID: 610	Name:String
+ID: 611	Name:Feather
+ID: 612	Name:Gunpowder
+ID: 613	Name:Wooden Hoe
+ID: 614	Name:Stone Hoe
+ID: 615	Name:Iron Hoe
+ID: 616	Name:Diamond Hoe
+ID: 617	Name:Golden Hoe
+ID: 618	Name:Netherite Hoe
+ID: 619	Name:Wheat Seeds
+ID: 620	Name:Wheat
+ID: 621	Name:Bread
+ID: 622	Name:Leather Cap
+ID: 623	Name:Leather Tunic
+ID: 624	Name:Leather Pants
+ID: 625	Name:Leather Boots
+ID: 626	Name:Chainmail Helmet
+ID: 627	Name:Chainmail Chestplate
+ID: 628	Name:Chainmail Leggings
+ID: 629	Name:Chainmail Boots
+ID: 630	Name:Iron Helmet
+ID: 631	Name:Iron Chestplate
+ID: 632	Name:Iron Leggings
+ID: 633	Name:Iron Boots
+ID: 634	Name:Diamond Helmet
+ID: 635	Name:Diamond Chestplate
+ID: 636	Name:Diamond Leggings
+ID: 637	Name:Diamond Boots
+ID: 638	Name:Golden Helmet
+ID: 639	Name:Golden Chestplate
+ID: 640	Name:Golden Leggings
+ID: 641	Name:Golden Boots
+ID: 642	Name:Netherite Helmet
+ID: 643	Name:Netherite Chestplate
+ID: 644	Name:Netherite Leggings
+ID: 645	Name:Netherite Boots
+ID: 646	Name:Flint
+ID: 647	Name:Raw Porkchop
+ID: 648	Name:Cooked Porkchop
+ID: 649	Name:Painting
+ID: 650	Name:Golden Apple
+ID: 651	Name:Enchanted Golden Apple
+ID: 652	Name:Oak Sign
+ID: 653	Name:Spruce Sign
+ID: 654	Name:Birch Sign
+ID: 655	Name:Jungle Sign
+ID: 656	Name:Acacia Sign
+ID: 657	Name:Dark Oak Sign
+ID: 658	Name:Crimson Sign
+ID: 659	Name:Warped Sign
+ID: 660	Name:Bucket
+ID: 661	Name:Water Bucket
+ID: 662	Name:Lava Bucket
+ID: 663	Name:Minecart
+ID: 664	Name:Saddle
+ID: 665	Name:Redstone Dust
+ID: 666	Name:Snowball
+ID: 667	Name:Oak Boat
+ID: 668	Name:Leather
+ID: 669	Name:Milk Bucket
+ID: 670	Name:Bucket of Pufferfish
+ID: 671	Name:Bucket of Salmon
+ID: 672	Name:Bucket of Cod
+ID: 673	Name:Bucket of Tropical Fish
+ID: 674	Name:Brick
+ID: 675	Name:Clay Ball
+ID: 676	Name:Dried Kelp Block
+ID: 677	Name:Paper
+ID: 678	Name:Book
+ID: 679	Name:Slimeball
+ID: 680	Name:Minecart with Chest
+ID: 681	Name:Minecart with Furnace
+ID: 682	Name:Egg
+ID: 683	Name:Compass
+ID: 684	Name:Fishing Rod
+ID: 685	Name:Clock
+ID: 686	Name:Glowstone Dust
+ID: 687	Name:Raw Cod
+ID: 688	Name:Raw Salmon
+ID: 689	Name:Tropical Fish
+ID: 690	Name:Pufferfish
+ID: 691	Name:Cooked Cod
+ID: 692	Name:Cooked Salmon
+ID: 693	Name:Ink Sac
+ID: 694	Name:Red Dye
+ID: 695	Name:Green Dye
+ID: 696	Name:Cocoa Beans
+ID: 697	Name:Lapis Lazuli
+ID: 698	Name:Purple Dye
+ID: 699	Name:Cyan Dye
+ID: 700	Name:Light Gray Dye
+ID: 701	Name:Gray Dye
+ID: 702	Name:Pink Dye
+ID: 703	Name:Lime Dye
+ID: 704	Name:Yellow Dye
+ID: 705	Name:Light Blue Dye
+ID: 706	Name:Magenta Dye
+ID: 707	Name:Orange Dye
+ID: 708	Name:Bone Meal
+ID: 709	Name:Blue Dye
+ID: 710	Name:Brown Dye
+ID: 711	Name:Black Dye
+ID: 712	Name:White Dye
+ID: 713	Name:Bone
+ID: 714	Name:Sugar
+ID: 715	Name:Cake
+ID: 716	Name:White Bed
+ID: 717	Name:Orange Bed
+ID: 718	Name:Magenta Bed
+ID: 719	Name:Light Blue Bed
+ID: 720	Name:Yellow Bed
+ID: 721	Name:Lime Bed
+ID: 722	Name:Pink Bed
+ID: 723	Name:Gray Bed
+ID: 724	Name:Light Gray Bed
+ID: 725	Name:Cyan Bed
+ID: 726	Name:Purple Bed
+ID: 727	Name:Blue Bed
+ID: 728	Name:Brown Bed
+ID: 729	Name:Green Bed
+ID: 730	Name:Red Bed
+ID: 731	Name:Black Bed
+ID: 732	Name:Cookie
+ID: 733	Name:Map
+ID: 734	Name:Shears
+ID: 735	Name:Melon Slice
+ID: 736	Name:Dried Kelp
+ID: 737	Name:Pumpkin Seeds
+ID: 738	Name:Melon Seeds
+ID: 739	Name:Raw Beef
+ID: 740	Name:Steak
+ID: 741	Name:Raw Chicken
+ID: 742	Name:Cooked Chicken
+ID: 743	Name:Rotten Flesh
+ID: 744	Name:Ender Pearl
+ID: 745	Name:Blaze Rod
+ID: 746	Name:Ghast Tear
+ID: 747	Name:Gold Nugget
+ID: 748	Name:Nether Wart
+ID: 749	Name:Potion
+ID: 750	Name:Glass Bottle
+ID: 751	Name:Spider Eye
+ID: 752	Name:Fermented Spider Eye
+ID: 753	Name:Blaze Powder
+ID: 754	Name:Magma Cream
+ID: 755	Name:Brewing Stand
+ID: 756	Name:Cauldron
+ID: 757	Name:Eye of Ender
+ID: 758	Name:Glistering Melon Slice
+ID: 759	Name:Bat Spawn Egg
+ID: 760	Name:Bee Spawn Egg
+ID: 761	Name:Blaze Spawn Egg
+ID: 762	Name:Cat Spawn Egg
+ID: 763	Name:Cave Spider Spawn Egg
+ID: 764	Name:Chicken Spawn Egg
+ID: 765	Name:Cod Spawn Egg
+ID: 766	Name:Cow Spawn Egg
+ID: 767	Name:Creeper Spawn Egg
+ID: 768	Name:Dolphin Spawn Egg
+ID: 769	Name:Donkey Spawn Egg
+ID: 770	Name:Drowned Spawn Egg
+ID: 771	Name:Elder Guardian Spawn Egg
+ID: 772	Name:Enderman Spawn Egg
+ID: 773	Name:Endermite Spawn Egg
+ID: 774	Name:Evoker Spawn Egg
+ID: 775	Name:Fox Spawn Egg
+ID: 776	Name:Ghast Spawn Egg
+ID: 777	Name:Guardian Spawn Egg
+ID: 778	Name:Hoglin Spawn Egg
+ID: 779	Name:Horse Spawn Egg
+ID: 780	Name:Husk Spawn Egg
+ID: 781	Name:Llama Spawn Egg
+ID: 782	Name:Magma Cube Spawn Egg
+ID: 783	Name:Mooshroom Spawn Egg
+ID: 784	Name:Mule Spawn Egg
+ID: 785	Name:Ocelot Spawn Egg
+ID: 786	Name:Panda Spawn Egg
+ID: 787	Name:Parrot Spawn Egg
+ID: 788	Name:Phantom Spawn Egg
+ID: 789	Name:Pig Spawn Egg
+ID: 790	Name:Piglin Spawn Egg
+ID: 791	Name:Pillager Spawn Egg
+ID: 792	Name:Polar Bear Spawn Egg
+ID: 793	Name:Pufferfish Spawn Egg
+ID: 794	Name:Rabbit Spawn Egg
+ID: 795	Name:Ravager Spawn Egg
+ID: 796	Name:Salmon Spawn Egg
+ID: 797	Name:Sheep Spawn Egg
+ID: 798	Name:Shulker Spawn Egg
+ID: 799	Name:Silverfish Spawn Egg
+ID: 800	Name:Skeleton Spawn Egg
+ID: 801	Name:Skeleton Horse Spawn Egg
+ID: 802	Name:Slime Spawn Egg
+ID: 803	Name:Spider Spawn Egg
+ID: 804	Name:Squid Spawn Egg
+ID: 805	Name:Stray Spawn Egg
+ID: 806	Name:Strider Spawn Egg
+ID: 807	Name:Trader Llama Spawn Egg
+ID: 808	Name:Tropical Fish Spawn Egg
+ID: 809	Name:Turtle Spawn Egg
+ID: 810	Name:Vex Spawn Egg
+ID: 811	Name:Villager Spawn Egg
+ID: 812	Name:Vindicator Spawn Egg
+ID: 813	Name:Wandering Trader Spawn Egg
+ID: 814	Name:Witch Spawn Egg
+ID: 815	Name:Wither Skeleton Spawn Egg
+ID: 816	Name:Wolf Spawn Egg
+ID: 817	Name:Zoglin Spawn Egg
+ID: 818	Name:Zombie Spawn Egg
+ID: 819	Name:Zombie Horse Spawn Egg
+ID: 820	Name:Zombie Villager Spawn Egg
+ID: 821	Name:Zombified Piglin Spawn Egg
+ID: 822	Name:Bottle o' Enchanting
+ID: 823	Name:Fire Charge
+ID: 824	Name:Book and Quill
+ID: 825	Name:Written Book
+ID: 826	Name:Emerald
+ID: 827	Name:Item Frame
+ID: 828	Name:Flower Pot
+ID: 829	Name:Carrot
+ID: 830	Name:Potato
+ID: 831	Name:Baked Potato
+ID: 832	Name:Poisonous Potato
+ID: 833	Name:Empty Map
+ID: 834	Name:Golden Carrot
+ID: 835	Name:Skeleton Skull
+ID: 836	Name:Wither Skeleton Skull
+ID: 837	Name:Player Head
+ID: 838	Name:Zombie Head
+ID: 839	Name:Creeper Head
+ID: 840	Name:Dragon Head
+ID: 841	Name:Carrot on a Stick
+ID: 842	Name:Warped Fungus on a Stick
+ID: 843	Name:Nether Star
+ID: 844	Name:Pumpkin Pie
+ID: 845	Name:Firework Rocket
+ID: 846	Name:Firework Star
+ID: 847	Name:Enchanted Book
+ID: 848	Name:Nether Brick
+ID: 849	Name:Nether Quartz
+ID: 850	Name:Minecart with TNT
+ID: 851	Name:Minecart with Hopper
+ID: 852	Name:Prismarine Shard
+ID: 853	Name:Prismarine Crystals
+ID: 854	Name:Raw Rabbit
+ID: 855	Name:Cooked Rabbit
+ID: 856	Name:Rabbit Stew
+ID: 857	Name:Rabbit's Foot
+ID: 858	Name:Rabbit Hide
+ID: 859	Name:Armor Stand
+ID: 860	Name:Iron Horse Armor
+ID: 861	Name:Golden Horse Armor
+ID: 862	Name:Diamond Horse Armor
+ID: 863	Name:Leather Horse Armor
+ID: 864	Name:Lead
+ID: 865	Name:Name Tag
+ID: 866	Name:Minecart with Command Block
+ID: 867	Name:Raw Mutton
+ID: 868	Name:Cooked Mutton
+ID: 869	Name:White Banner
+ID: 870	Name:Orange Banner
+ID: 871	Name:Magenta Banner
+ID: 872	Name:Light Blue Banner
+ID: 873	Name:Yellow Banner
+ID: 874	Name:Lime Banner
+ID: 875	Name:Pink Banner
+ID: 876	Name:Gray Banner
+ID: 877	Name:Light Gray Banner
+ID: 878	Name:Cyan Banner
+ID: 879	Name:Purple Banner
+ID: 880	Name:Blue Banner
+ID: 881	Name:Brown Banner
+ID: 882	Name:Green Banner
+ID: 883	Name:Red Banner
+ID: 884	Name:Black Banner
+ID: 885	Name:End Crystal
+ID: 886	Name:Chorus Fruit
+ID: 887	Name:Popped Chorus Fruit
+ID: 888	Name:Beetroot
+ID: 889	Name:Beetroot Seeds
+ID: 890	Name:Beetroot Soup
+ID: 891	Name:Dragon's Breath
+ID: 892	Name:Splash Potion
+ID: 893	Name:Spectral Arrow
+ID: 894	Name:Tipped Arrow
+ID: 895	Name:Lingering Potion
+ID: 896	Name:Shield
+ID: 897	Name:Elytra
+ID: 898	Name:Spruce Boat
+ID: 899	Name:Birch Boat
+ID: 900	Name:Jungle Boat
+ID: 901	Name:Acacia Boat
+ID: 902	Name:Dark Oak Boat
+ID: 903	Name:Totem of Undying
+ID: 904	Name:Shulker Shell
+ID: 905	Name:Iron Nugget
+ID: 906	Name:Knowledge Book
+ID: 907	Name:Debug Stick
+ID: 908	Name:Music Disc
+ID: 909	Name:Music Disc
+ID: 910	Name:Music Disc
+ID: 911	Name:Music Disc
+ID: 912	Name:Music Disc
+ID: 913	Name:Music Disc
+ID: 914	Name:Music Disc
+ID: 915	Name:Music Disc
+ID: 916	Name:Music Disc
+ID: 917	Name:Music Disc
+ID: 918	Name:Music Disc
+ID: 919	Name:Music Disc
+ID: 920	Name:Music Disc
+ID: 921	Name:Trident
+ID: 922	Name:Phantom Membrane
+ID: 923	Name:Nautilus Shell
+ID: 924	Name:Heart of the Sea
+ID: 925	Name:Crossbow
+ID: 926	Name:Suspicious Stew
+ID: 927	Name:Loom
+ID: 928	Name:Banner Pattern
+ID: 929	Name:Banner Pattern
+ID: 930	Name:Banner Pattern
+ID: 931	Name:Banner Pattern
+ID: 932	Name:Banner Pattern
+ID: 933	Name:Banner Pattern
+ID: 934	Name:Composter
+ID: 935	Name:Barrel
+ID: 936	Name:Smoker
+ID: 937	Name:Blast Furnace
+ID: 938	Name:Cartography Table
+ID: 939	Name:Fletching Table
+ID: 940	Name:Grindstone
+ID: 941	Name:Lectern
+ID: 942	Name:Smithing Table
+ID: 943	Name:Stonecutter
+ID: 944	Name:Bell
+ID: 945	Name:Lantern
+ID: 946	Name:Soul Lantern
+ID: 947	Name:Sweet Berries
+ID: 948	Name:Campfire
+ID: 949	Name:Soul Campfire
+ID: 950	Name:Shroomlight
+ID: 951	Name:Honeycomb
+ID: 952	Name:Bee Nest
+ID: 953	Name:Beehive
+ID: 954	Name:Honey Bottle
+ID: 955	Name:Honey Block
+ID: 956	Name:Honeycomb Block
+ID: 957	Name:Lodestone
+ID: 958	Name:Block of Netherite
+ID: 959	Name:Ancient Debris
+ID: 960	Name:Target
+ID: 961	Name:Crying Obsidian
+ID: 962	Name:Blackstone
+ID: 963	Name:Blackstone Slab
+ID: 964	Name:Blackstone Stairs
+ID: 965	Name:Gilded Blackstone
+ID: 966	Name:Polished Blackstone
+ID: 967	Name:Polished Blackstone Slab
+ID: 968	Name:Polished Blackstone Stairs
+ID: 969	Name:Chiseled Polished Blackstone
+ID: 970	Name:Polished Blackstone Bricks
+ID: 971	Name:Polished Blackstone Brick Slab
+ID: 972	Name:Polished Blackstone Brick Stairs
+ID: 973	Name:Cracked Polished Blackstone Bricks
+ID: 974	Name:Respawn Anchor

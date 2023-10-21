@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "bassclef",
+  "version": "${version}",
+  "name": "bassclef",
+  "description": "",
+  "authors": [
+    "ScriptUnseen"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/bassclef/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "scriptunseen.bassclef.Main"
+    ]
+  },
+  "mixins": [
+    "bassclef.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.7",
+    "fabric": "*",
+    "minecraft": "1.16.1"
+  }
+}
